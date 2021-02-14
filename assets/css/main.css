@@ -2101,9 +2101,8 @@ input, select, textarea {
 		.image img {
 			border-radius: 0.35em;
 			display: block;
-			border: solid #818ba6 2px;
+			border: solid #818ba6 2px;		
 		}
-
 		.image.left {
 			float: left;
 			margin: 0 1.5em 1em 0;
@@ -2145,7 +2144,9 @@ input, select, textarea {
 			.image.avatar img {
 				border-radius: 100%;
 				width: 100%;
+			
 			}
+			
 
 /* List */
 
